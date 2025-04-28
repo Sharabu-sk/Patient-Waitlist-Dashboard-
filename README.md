@@ -1,4 +1,4 @@
-Welcome to my Patient Waitlist Analysis Dashboard project — built to demonstrate my skills in data modeling, DAX calculations, and interactive Power BI design.
+Welcome to my Patient Waitlist Analysis Dashboard project built to demonstrate my skills in data modeling, DAX calculations, and interactive Power BI design.
 This project showcases how large-scale patient waitlist data can be transformed into clear, dynamic insights for decision-makers in the healthcare industry.
 
  Skills Demonstrated
@@ -20,7 +20,7 @@ Interactive Buttons to toggle between Average and Median calculations
 Tooltips and Responsive Visuals for intuitive user experience
 Color scheme optimized for colorblind accessibility and clarity
 
-🔧 Tools and Technologies
+ Tools and Technologies
 Power BI Desktop (Primary Tool)
 DAX for advanced calculations
 SQL (basic) for background data understanding
@@ -28,9 +28,9 @@ Canva (for lightweight dashboard background design)
 GitHub + Google Sites for professional publishing
 
  Live Portfolio Link
-🌐 View Full Portfolio Here
-🔗 (https://sites.google.com/view/view-saikrishn-analytics/home)
-🔗 LinkedIn Project Post (Optional)
+ View Full Portfolio Here
+(https://sites.google.com/view/view-saikrishn-analytics/home)
+ LinkedIn Project Post (Optional)
 
  About Me
 I'm Sai Krishna Sharabu, a passionate Data Analyst who loves turning complex data into clear business stories. Currently growing expertise in Power BI, SQL, Jupyter, and advanced analytics — with a strong focus on real-world problem solving and data storytelling.
